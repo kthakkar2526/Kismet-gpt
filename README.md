@@ -1,4 +1,6 @@
 KISMET-GPT
+
+
 Introduction: 
 Kismet is a chatbot designed to interact with you and provide assistance in various tasks. With my advanced artificial intelligence and natural language processing capabilities, I can understand your questions and respond with helpful information, advice, or guidance. Whether you need help with a specific task or just want to chat, its there for you 24/7. So, feel free to ask anything!
 
